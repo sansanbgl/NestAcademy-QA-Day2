@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add new candidate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7974eda5-4b06-4a8b-8fa9-d50c25bf4d8e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1482673-1f39-4a74-84df-549d4a41ef5b</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+</TestCaseEntity>
